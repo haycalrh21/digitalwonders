@@ -7,8 +7,8 @@ import { Analytics } from "@vercel/analytics/react";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Product Hunt Clone",
-	description: "A clone of Product Hunt built with Next.js",
+	title: "Digital Wonders",
+	description: "App Dogital",
 };
 
 export default function RootLayout({
